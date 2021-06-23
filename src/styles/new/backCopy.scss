@@ -1,0 +1,118 @@
+.sidebar-logo-container{
+    background: #215773 !important;
+}
+.navbar{
+    background :linear-gradient(to right, #215773, #3e97c4)!important;
+}
+
+.el-submenu.is-active .el-submenu__title{
+    border-bottom-color:#215773 !important;
+   
+} 
+
+.tags-view-container .tags-view-wrapper .tags-view-item.active[data-v-fb9748ea]{
+    color:#215773 !important;
+}
+
+.input-method-sls-global .el-input__inner{
+    color:#215773 !important;
+}
+
+.user-avatar .el-icon-user-solid{
+    color:#215773 !important;
+}
+
+.el-pagination.is-background .el-pager li:not(.disabled).active{
+    background-color:#5672b4 !important
+}
+
+.el-button--primary{
+    color: #fff !important;
+    background-color:#5672b4 !important;
+    border-color:#3b6b9c !important;
+}
+.el-button--success{
+    color: #fff !important;
+    background-color:#45931e !important;
+    border-color:#58af2d !important;
+}
+.el-button--warning{
+    color: #fff !important;
+    background-color:#daab23 !important;
+    border-color:#d28b21 !important;
+}
+
+.el-table__body tr.current-row > td{
+    background-color:#3583ab !important;
+    color: #fff !important;
+}
+// .el-card{
+//     background-color:#f7f7f7 !important;
+// }
+// td{
+//     background-color:#f7f7f7 !important;
+// }
+// th{
+//     background-color:#f7f7f7 !important;
+// }
+.app-breadcrumb.el-breadcrumb .no-redirect{
+    color:white !important;
+}
+.el-breadcrumb__separator{
+    color:white !important;
+}
+.el-form-item__label{
+    color:black !important;
+}
+
+th{
+    color:black !important;
+}
+td{
+    color:black !important;
+}
+// .sort-caret.ascending{
+//     border-bottom-color:#737476 !important;
+// }
+// .sort-caret.descending{
+//     border-top-color:#737476 !important;
+// }
+.el-menu-item{
+    color:black !important;
+}
+.el-submenu__title{
+    color:black !important;
+}
+.el-input-group__append, .el-input-group__prepend{
+    color:black !important;
+}
+.redItem .el-form-item__label {
+    color: red !important;
+}
+.el-pagination__total{
+    color:black !important;
+}
+.el-pagination__sizes{
+    color:black !important;
+}
+.el-pagination.is-background .btn-next.disabled, .el-pagination.is-background .btn-next:disabled, .el-pagination.is-background .btn-prev.disabled, .el-pagination.is-background .btn-prev:disabled, .el-pagination.is-background .el-pager li.disabled{
+    color:black !important;
+}
+.el-pagination.is-background .btn-next, .el-pagination.is-background .btn-prev, .el-pagination.is-background .el-pager li{
+    color:black !important;
+}
+.el-select .el-input__inner{
+    color:black !important;
+}
+.el-input--mini .el-input__inner{
+    color:black !important;
+}
+.tags-view-container .tags-view-wrapper .tags-view-item{
+    color:black !important;
+}
+.el-card{
+    color:black !important;
+}
+.el-tree{
+    color:black !important;
+}

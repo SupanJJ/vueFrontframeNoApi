@@ -1,0 +1,79 @@
+[
+    {
+        "title": "工作中心",
+        "name": "work_center",
+        "icon": "clinic-medical",
+        "pic": "assets/imgs/modules/setting",
+        "url": "http://47.99.76.193:12880"
+    },
+    {
+        "title": "平台维护",
+        "name": "base",
+        "icon": "briefcase-medical",
+        "pic": "assets/imgs/modules/setting",
+        "url": "http://47.99.76.193:12881"
+    },
+    {
+        "title": "医院维护",
+        "name": "hos_base",
+        "icon": "briefcase-medical",
+        "pic": "assets/imgs/modules/setting",
+        "url": "http://47.99.76.193:12887"
+    },
+    {
+        "title": "患者档案",
+        "name": "patient_file",
+        "icon": "paste",
+        "pic": "assets/imgs/modules/medical-history",
+        "url": "http://47.99.76.193:12882"
+    },
+    {
+        "title": "门诊挂号",
+        "name": "register",
+        "icon": "registered",
+        "pic": "assets/imgs/modules/nurse",
+        "url": "http://47.99.76.193:12884"
+    },
+    {
+        "title": "医生工作站",
+        "name": "doctor",
+        "icon": "user-md",
+        "pic": "assets/imgs/modules/stethoscope",
+        "url": "http://47.99.76.193:12883"
+    },
+    {
+        "title": "药房",
+        "name": "pharmacy",
+        "icon": "capsules",
+        "pic": "assets/imgs/modules/pills",
+        "url": "http://47.99.76.193:12885"
+    },
+    {
+        "title": "药库",
+        "name": "drugStorage",
+        "icon": "capsules",
+        "pic": "assets/imgs/modules/drugStorage",
+        "url": "http://47.99.76.193:12888"
+    },
+    {
+        "title": "注射室",
+        "name": "inject",
+        "icon": "syringe",
+        "pic": "assets/imgs/modules/injection",
+        "url": "http://47.99.76.193:12886"
+    },
+    {
+        "title": "宁波医保",
+        "name": "medicalInsurance",
+        "icon": "syringe",
+        "pic": "assets/imgs/modules/medicalInsurance",
+        "url": "http://47.99.76.193:12889"
+    },
+    {
+        "title": "开发者平台",
+        "name": "his_log",
+        "icon": "syringe",
+        "pic": "assets/imgs/modules/setting",
+        "url": "http://47.99.76.193:12891"
+    }
+]

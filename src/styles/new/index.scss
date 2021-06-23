@@ -1,0 +1,388 @@
+@import './variables.scss';
+@import './mixin.scss';
+@import './transition.scss';
+@import './element-ui.scss';
+@import './sidebar.scss';
+@import './tree.scss';
+
+body {
+    // overflow: hidden;
+    // height: 100%;
+    margin: 0px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+}
+
+label {
+    font-weight: 700;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+#app {
+    height: 100%;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+a:focus,
+a:active {
+    outline: none;
+}
+
+a,
+a:focus,
+a:hover {
+    cursor: pointer;
+    color: inherit;
+    text-decoration: none;
+}
+
+div:focus {
+    outline: none;
+}
+
+.clearfix {
+    &:after {
+        visibility: hidden;
+        display: block;
+        font-size: 0;
+        content: " ";
+        clear: both;
+        height: 0;
+    }
+}
+
+//nprogress颜色覆盖
+#nprogress .bar {
+    background: #67C23A !important; //自定义颜色
+}
+
+// 主容器
+.app-container {
+    padding: 10px;
+}
+
+//搜索栏样式
+.filter-container {
+    margin-top: 0px;
+}
+
+//操作栏样式
+.operate-container {
+    margin-top: 10px;
+}
+
+//操作栏按钮样式
+.operate-container .to-right {
+    float: right;
+}
+
+//右
+.to-right {
+    float: right;
+}
+
+//左
+.to-left {
+    float: left;
+}
+
+//表格栏样式
+.table-container {
+    margin-top: 10px;
+}
+
+//添加、更新表单样式
+.form-container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 720px;
+    padding: 35px 35px 15px 35px;
+    margin: 20px auto;
+}
+
+//margin
+.no-mb {
+    margin-bottom: 0px !important;
+}
+
+.no-mb .el-form-item {
+    margin-bottom: 0px !important;
+}
+
+.no-mt {
+    margin-top: 0px !important;
+}
+
+.no-ml {
+    margin-left: 0px !important;
+}
+
+.no-mr {
+    margin-right: 0px !important;
+}
+
+.no-m {
+    margin: 0px !important;
+}
+
+.no-p {
+    padding: 0;
+
+    & .el-card__body {
+        padding: 0;
+    }
+
+    & .el-dialog__body {
+        padding: 0;
+    }
+}
+
+.no-pt {
+    padding-top: 0px !important;
+}
+
+.no-pb {
+    padding-bottom: 0px !important;
+}
+
+.no-pl {
+    padding-left: 0px !important;
+}
+
+.no-pr {
+    padding-right: 0px !important;
+}
+
+.no-px {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+
+    & .el-card__body {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+}
+
+.no-py {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.small-mb {
+    margin-bottom: 20px;
+}
+
+.mini-mb {
+    margin-bottom: 10px;
+}
+
+.mini-mb .el-form-item--mini {
+    margin-bottom: 10px;
+}
+
+//button
+.btn-block {
+    width: 100%;
+}
+
+//blcok
+.full-block {
+    width: 100% !important;
+}
+
+.label-justify {
+    text-align: justify;
+    text-align-last: justify;
+}
+
+.label-justify .el-form-item__label {
+    padding-left: 12px;
+    text-align: justify;
+    text-align-last: justify;
+}
+
+.title-left {
+    padding-left: 5px;
+    border-left: 5px solid $themeTextColor;
+}
+
+.form-label-justify {
+    .el-form-item__label {
+        text-align: justify;
+        text-align-last: justify;
+    }
+}
+
+
+// tag
+.primary-tag {
+    background-color: #409EFF;
+    color: #fff;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+.success-tag {
+    background-color: #67C23A;
+    color: #fff;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+.warning-tag {
+    background-color: #E6A23C;
+    color: #fff;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+.danger-tag {
+    background-color: #F56C6C;
+    color: #fff;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+.info-tag {
+    background-color: #909399;
+    color: #fff;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+.super-mini-table {
+
+    th,
+    td {
+        padding: 2px 0 !important;
+    }
+    .elx-header--column.col--ellipsis{
+        height:auto !important
+    }
+    .elx-body--column.col--ellipsis{
+        height:auto !important
+    }
+    .elx-table{
+        font-size: 12px !important;
+    }
+    .elx-table .elx-cell{
+        padding-left:0 !important;
+        padding-right:0 !important;
+    }
+    .cell {
+        padding: 0px !important;
+    }
+
+    .el-button {
+        padding: 2px !important;
+    }
+
+    .el-table__empty-block {
+        min-height: 20px !important;
+        height: 30px !important;
+    }
+
+    .caret-wrapper {
+        height: 15px !important;
+        //height: auto !important;
+    }
+
+    .sort-caret.descending {
+        border-top-color: #C0C4CC;
+        bottom: -3px !important;
+    }
+
+    .sort-caret.ascending {
+        border-bottom-color: #C0C4CC;
+        top: -5px !important;
+    }
+}
+
+::-webkit-scrollbar {
+    /*滚动条整体样式*/
+    width: 8px;
+    /*高宽分别对应横竖滚动条的尺寸*/
+    height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    /*滚动条里面小方块*/
+    border-radius: 5px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 0.2);
+}
+
+::-webkit-scrollbar-track {
+    /*滚动条里面轨道*/
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+
+.el-message {
+    min-width: 480px !important
+}
+
+
+// .el-input__inner {
+//     border: 1px solid #c0c0c0 !important;
+// }
+
+// .el-input-group__prepend {
+//     border: 1px solid #c0c0c0 !important;
+//     .el-input__inner{
+//         border: 0px !important;
+//     }
+// }
+
+// .el-input-group__append {
+//     border: 1px solid #c0c0c0 !important;
+//     .el-input__inner{
+//         border: 0px !important;
+//     }
+// }
+
+// .el-checkbox__inner {
+//     border: 1px solid #c0c0c0 !important;
+// }
+
+
+//表格线
+// th {
+//     border-top:  0 !important;
+//     border-left: 1px solid #c0c0c0 !important;
+//     border-right: 0 !important;
+//     border-bottom: 1px solid #c0c0c0 !important;
+// }
+
+// td {
+//     border-top: 0 !important;
+//     border-left: 1px solid #c0c0c0 !important;
+//     border-right: 0 !important;
+//     border-bottom: 1px solid #c0c0c0 !important;
+// }
+
+// .el-table--border {
+//     border-top:  1px solid #c0c0c0 !important;
+//     border-left: 0 !important;
+//     border-right: 0 !important;
+//     border-bottom: 0 !important;
+// }

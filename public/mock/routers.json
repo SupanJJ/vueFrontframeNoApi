@@ -1,0 +1,61 @@
+{
+    "routers": [
+        {
+            "path": "/",
+            "name": "index",
+            "component": "layouts\/Layout",
+            "redirect": "\/home",
+            "meta": {
+                "menu": true
+            },
+            "children": [{
+                    "path": "home",
+                    "name": "home",
+                    "component": "views\/home\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "clinic-medical",
+                        "title": "首页",
+                        "tagfix": true
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "/example",
+            "name": "example",
+            "component": "layouts\/Layout",
+            "redirect": "\/example\/example1",
+            "meta": {
+                "menu": true,
+                "icon": "vial",
+                "title": "样例页面"
+            },
+            "children": [
+                {
+                    "path": "example1",
+                    "name": "example1",
+                    "component": "views\/example\/example1\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "pen-square",
+                        "title": "样例1"
+                    },
+                    "children": []
+                },
+                {
+                    "path": "example2",
+                    "name": "example2",
+                    "component": "views\/example\/example2\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "lightbulb",
+                        "title": "样例2"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
