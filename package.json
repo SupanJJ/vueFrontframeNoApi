@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "serve_report": "vue-cli-service serve --report",
     "build": "vue-cli-service build",
-    "online": "vue-cli-service build --mode online"
+    "analyz": "NODE_ENV=production npm_config_report=true npm run build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
@@ -13,18 +14,50 @@
     "@fortawesome/free-regular-svg-icons": "^5.9.0",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/vue-fontawesome": "^0.1.6",
-    "@tinymce/tinymce-vue": "^3.0.1",
-    "axios": "^0.19.0",
+    "@tinymce/tinymce-vue": "^3.2.8",
+    "@vue/babel-preset-app": "^4.5.14",
+    "autoprefixer": "^10.3.7",
+    "aws-sdk": "^2.1046.0",
+    "axios": "^0.23.0",
+    "dhtmlx-gantt": "^7.1.10",
+    "echarts": "^5.3.2",
     "element-ui": "^2.11.0",
+    "file-saver": "^2.0.5",
+    "fireworks-js": "2.0.2",
+    "highcharts": "^9.3.2",
+    "highcharts-vue": "^1.4.0",
+    "html2canvas": "^1.4.0",
     "js-cookie": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.1",
     "nprogress": "^0.2.0",
     "path-to-regexp": "^3.0.0",
+    "quill": "^1.3.7",
+    "quill-image-drop-module": "^1.0.3",
+    "quill-image-extend-module": "^1.1.2",
+    "quill-image-paste-module": "^1.0.6",
+    "quill-image-resize-module": "^3.0.0",
+    "quill-image-super-solution-module": "^2.0.0",
     "script-loader": "^0.7.2",
-    "vue": "^2.6.10",
+    "spark-md5": "^3.0.2",
+    "strip-ansi": "^7.0.1",
+    "tinymce": "^5.10.2",
+    "v-calendar": "2.3.4",
+    "v-contextmenu": "^2.9.0",
+    "vue": "2.6.10",
     "vue-clipboard2": "^0.3.1",
+    "vue-drag-resize": "^1.5.4",
+    "vue-fullscreen": "^2.6.1",
+    "vue-quill-editor": "^3.0.6",
     "vue-router": "^3.0.3",
-    "vuex": "^3.0.1"
+    "vue-runtime-helpers": "^1.1.2",
+    "vue-seamless-scroll": "^1.1.23",
+    "vue-upload-component": "^2.8.22",
+    "vue2-org-tree": "^1.3.5",
+    "vuedraggable": "^2.24.3",
+    "vuex": "^3.0.1",
+    "vxe-table": "^3.4.13",
+    "xe-utils": "^3.5.2",
+    "xlsx": "^0.17.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
@@ -32,18 +65,25 @@
     "@vue/cli-service": "^3.9.0",
     "@vue/test-utils": "1.0.0-beta.29",
     "chai": "^4.1.2",
+    "compression-webpack-plugin": "^5.0.1",
+    "element-theme-chalk": "^2.15.6",
     "node-sass": "^4.14.1",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^7.3.1",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "svg-sprite-loader": "^6.0.11",
+    "file-loader": "^6.2.0",
+    "image-webpack-loader": "^8.1.0",
+    "url-loader": "^4.1.1",
+    "terser-webpack-plugin": "^4.2.3",
     "vue-cli-plugin-element": "^1.0.1",
-    "vue-template-compiler": "^2.6.10"
-  },
-  "postcss": {
-    "plugins": {
-      "autoprefixer": {}
-    }
+    "vue-i18n": "^8.26.7",
+    "vue-template-compiler": "2.6.10",
+    "webpack-bundle-analyzer": "^4.5.0"
   },
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "__npminstall_done": false
 }

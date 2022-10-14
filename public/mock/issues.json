@@ -1,0 +1,1201 @@
+[
+    {
+        "id": 93,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 10,
+        "departmentname": "工程中心材料技术开发部",
+        "project_phase": "PA",
+        "issue_name": "HEV 下车身模块SDS不达标",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p><img src=\"http://10.190.49.113:8081/upload/38179119ba5b57d71c76bef1fa037759.png\"></p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "A",
+        "issue_stage": "0",
+        "progress_end": "2021-12-29",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2463,
+                "name": "杨磊",
+                "userid": "0141523",
+                "avatar_url": "http://account.geely.com/emp/0\\NTU1RA==\\NTU1MDU1NTE1NjU3\\NTU1MDU1NTE1NjU3.jpeg",
+                "depmt_id": "10"
+            }
+        ],
+        "tag_issue": [],
+        "attribute_issue": [
+            {
+                "id": 54,
+                "name": "整备质量 ",
+                "fstid": 1,
+                "fstname": "环境适应性",
+                "secid": 15,
+                "secname": "轻量化"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 10,
+        "departmentname": "工程中心材料技术开发部",
+        "project_phase": "PA",
+        "issue_name": "HEV 热管理模块SDS不达标",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p><img src=\"http://10.190.49.113:8081/upload/8845dd25598e7d7cffd5ee2f59791074.png\"></p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "A",
+        "issue_stage": "0",
+        "progress_end": "2021-12-28",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2463,
+                "name": "杨磊",
+                "userid": "0141523",
+                "avatar_url": "http://account.geely.com/emp/0\\NTU1RA==\\NTU1MDU1NTE1NjU3\\NTU1MDU1NTE1NjU3.jpeg",
+                "depmt_id": "10"
+            }
+        ],
+        "tag_issue": [],
+        "attribute_issue": [
+            {
+                "id": 54,
+                "name": "整备质量 ",
+                "fstid": 1,
+                "fstname": "环境适应性",
+                "secid": 15,
+                "secname": "轻量化"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 10,
+        "departmentname": "工程中心材料技术开发部",
+        "project_phase": "PA",
+        "issue_name": "HEV 电子电器SDS不达标",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p><img src=\"http://10.190.49.113:8081/upload/bb63adc090c6409a3ee935adbc6151b6.png\"></p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "A",
+        "issue_stage": "0",
+        "progress_end": "2021-12-28",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2463,
+                "name": "杨磊",
+                "userid": "0141523",
+                "avatar_url": "http://account.geely.com/emp/0\\NTU1RA==\\NTU1MDU1NTE1NjU3\\NTU1MDU1NTE1NjU3.jpeg",
+                "depmt_id": "10"
+            }
+        ],
+        "tag_issue": [],
+        "attribute_issue": [
+            {
+                "id": 54,
+                "name": "整备质量 ",
+                "fstid": 1,
+                "fstname": "环境适应性",
+                "secid": 15,
+                "secname": "轻量化"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 10,
+        "departmentname": "工程中心材料技术开发部",
+        "project_phase": "PA",
+        "issue_name": "HEV 底盘模块SDS不达标",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p><img src=\"http://10.190.49.113:8081/upload/4d80f54fb43e25127e880a1b8f352144.png\"></p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "A",
+        "issue_stage": "0",
+        "progress_end": "2021-12-27",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2463,
+                "name": "杨磊",
+                "userid": "0141523",
+                "avatar_url": "http://account.geely.com/emp/0\\NTU1RA==\\NTU1MDU1NTE1NjU3\\NTU1MDU1NTE1NjU3.jpeg",
+                "depmt_id": "10"
+            }
+        ],
+        "tag_issue": [],
+        "attribute_issue": [
+            {
+                "id": 54,
+                "name": "整备质量 ",
+                "fstid": 1,
+                "fstname": "环境适应性",
+                "secid": 15,
+                "secname": "轻量化"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 10,
+        "departmentname": "工程中心材料技术开发部",
+        "project_phase": "PA",
+        "issue_name": "HEV 动力模块SDS不达标",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p><img src=\"http://10.190.49.113:8081/upload/2f9591d2ab8288b39d85fde7bd287ee6.png\"></p>",
+        "issue_cause": "",
+        "issue_status": "R",
+        "issue_severity": "A",
+        "issue_stage": "0",
+        "progress_end": "2021-12-26",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2463,
+                "name": "杨磊",
+                "userid": "0141523",
+                "avatar_url": "http://account.geely.com/emp/0\\NTU1RA==\\NTU1MDU1NTE1NjU3\\NTU1MDU1NTE1NjU3.jpeg",
+                "depmt_id": "10"
+            }
+        ],
+        "tag_issue": [],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 9,
+        "departmentname": "工程中心NVH开发部",
+        "project_phase": "PA",
+        "issue_name": "雨刮安装点动刚度不达标",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-31",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2080,
+                "name": "李德水",
+                "userid": "0120757",
+                "avatar_url": "http://account.geely.com/emp/0\\NTE1Nw==\\NTU1NjU0NTM1MTUz\\NTU1NjU0NTM1MTUz.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 10,
+                "name": "PSS180"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 25,
+                "name": "NVH"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 10,
+        "departmentname": "工程中心材料技术开发部",
+        "project_phase": "PA",
+        "issue_name": "HEV 车型热管理重量不达标",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>HEV，热管理目标43.12，现状49.98</p>",
+        "issue_cause": "",
+        "issue_status": "R",
+        "issue_severity": "A",
+        "issue_stage": "0",
+        "progress_end": "2021-12-30",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2463,
+                "name": "杨磊",
+                "userid": "0141523",
+                "avatar_url": "http://account.geely.com/emp/0\\NTU1RA==\\NTU1MDU1NTE1NjU3\\NTU1MDU1NTE1NjU3.jpeg",
+                "depmt_id": "10"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 8,
+                "name": "PSS150"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 16,
+        "departmentname": "领克品牌研究院",
+        "project_phase": "DSM5",
+        "issue_name": "座椅头枕舒适性",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>高配座椅头枕扬声器与A面距离16mm,不满足舒适性要求,建议A:头枕加厚10mm,建议B;扬声器壳体改小 </p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2022-04-20",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 3309,
+                "name": "吴超",
+                "userid": "0278530",
+                "avatar_url": "http://account.geely.com/emp/0\\NTY=\\NTY1MzVDNTE1NzU0\\NTY1MzVDNTE1NzU0.jpeg",
+                "depmt_id": null
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 6,
+                "name": "PSS130"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 43,
+                "name": "座椅舒适性"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 8,
+        "departmentname": "工程中心属性集成部",
+        "project_phase": "PA",
+        "issue_name": "DX11门槛梁前端老鼠洞",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>涉水时水大量进入门槛梁腔体，存在密封条止口漏水、A/B/C下隔断漏水风险（EX11/HX11)</p>",
+        "issue_cause": "<p>门槛梁钣金设计存在老鼠洞，无法有效密封</p><p><br></p>",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-30",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2068,
+                "name": "鲍雪忠",
+                "userid": "0048213",
+                "avatar_url": "http://account.geely.com/emp/0\\NTY1NQ==\\NTA1QzU2NTU1Nw==\\NTA1QzU2NTU1Nw==.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 17,
+                "name": "PSS270"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 27,
+                "name": "水管理及密封性"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 9,
+        "departmentname": "工程中心NVH开发部",
+        "project_phase": "PA",
+        "issue_name": "侧围外板抗凹未满足目标要求",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-31",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2156,
+                "name": "俞有龙",
+                "userid": "0144828",
+                "avatar_url": "http://account.geely.com/emp/0\\NTI1NA==\\NTU1MDUwNUM1NjVD\\NTU1MDUwNUM1NjVD.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 18,
+                "name": "PSS271"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 9,
+        "departmentname": "工程中心NVH开发部",
+        "project_phase": "PA",
+        "issue_name": "后背门缓冲块安装点静刚度未满足目标要求",
+        "progress_status": "close",
+        "issue_comefrom": "研发",
+        "issue_description": "",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-31",
+        "actual_finish": "2021-12-21",
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2156,
+                "name": "俞有龙",
+                "userid": "0144828",
+                "avatar_url": "http://account.geely.com/emp/0\\NTI1NA==\\NTU1MDUwNUM1NjVD\\NTU1MDUwNUM1NjVD.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 14,
+                "name": "PSS230"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 26,
+                "name": "坚固性"
+            },
+            {
+                "id": 15,
+                "name": "轻量化"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 9,
+        "departmentname": "工程中心NVH开发部",
+        "project_phase": "PA",
+        "issue_name": "后门护板安装点静刚度未满足目标要求",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-31",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2156,
+                "name": "俞有龙",
+                "userid": "0144828",
+                "avatar_url": "http://account.geely.com/emp/0\\NTI1NA==\\NTU1MDUwNUM1NjVD\\NTU1MDUwNUM1NjVD.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 13,
+                "name": "PSS220"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            },
+            {
+                "id": 26,
+                "name": "坚固性"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 9,
+        "departmentname": "工程中心NVH开发部",
+        "project_phase": "PA",
+        "issue_name": "后门玻璃升降电机安装点静刚度未满足要求",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-31",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2156,
+                "name": "俞有龙",
+                "userid": "0144828",
+                "avatar_url": "http://account.geely.com/emp/0\\NTI1NA==\\NTU1MDUwNUM1NjVD\\NTU1MDUwNUM1NjVD.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 13,
+                "name": "PSS220"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            },
+            {
+                "id": 26,
+                "name": "坚固性"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 9,
+        "departmentname": "工程中心NVH开发部",
+        "project_phase": "PA",
+        "issue_name": "后门内腰线刚度不达标",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-31",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2156,
+                "name": "俞有龙",
+                "userid": "0144828",
+                "avatar_url": "http://account.geely.com/emp/0\\NTI1NA==\\NTU1MDUwNUM1NjVD\\NTU1MDUwNUM1NjVD.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 13,
+                "name": "PSS220"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            },
+            {
+                "id": 26,
+                "name": "坚固性"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 9,
+        "departmentname": "工程中心NVH开发部",
+        "project_phase": "PA",
+        "issue_name": "前门外板抗凹不达标",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-31",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2156,
+                "name": "俞有龙",
+                "userid": "0144828",
+                "avatar_url": "http://account.geely.com/emp/0\\NTI1NA==\\NTU1MDUwNUM1NjVD\\NTU1MDUwNUM1NjVD.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 13,
+                "name": "PSS220"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            },
+            {
+                "id": 26,
+                "name": "坚固性"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 8,
+        "departmentname": "工程中心属性集成部",
+        "project_phase": "PA",
+        "issue_name": "前门安装点静刚度未满足目标要求",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "2",
+        "progress_end": "2021-12-31",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2156,
+                "name": "俞有龙",
+                "userid": "0144828",
+                "avatar_url": "http://account.geely.com/emp/0\\NTI1NA==\\NTU1MDUwNUM1NjVD\\NTU1MDUwNUM1NjVD.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 13,
+                "name": "PSS220"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            },
+            {
+                "id": 26,
+                "name": "坚固性"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 11,
+        "departmentname": "工程中心安全技术开发部",
+        "project_phase": "PA",
+        "issue_name": "新增AGS导致腿部失分较大，不能满足安全目标要求",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>新增AGS，压溃空间不能满足120mm要求，腿部失分较大<img src=\"http://10.190.49.113:8081/upload/32d57a68bbffcc5e37e084a1adf2d661.png\"></p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2022-01-28",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2260,
+                "name": "芦连",
+                "userid": "0052100",
+                "avatar_url": "http://account.geely.com/emp/0\\NTA=\\NTE1NjU1NTQ1NA==\\NTE1NjU1NTQ1NA==.jpeg",
+                "depmt_id": "11"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 16,
+                "name": "PSS260"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 20,
+                "name": "热管理"
+            },
+            {
+                "id": 31,
+                "name": "主动安全&被动安全"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 7,
+        "departmentname": "工程中心数字仿真技术开发部",
+        "project_phase": "PA",
+        "issue_name": "基于V1publish数据分析，后背门电动撑杆安装点静态强度，球头安装点内板静强度不达标。",
+        "progress_status": "close",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>基于V1publish数据分析，后背门电动撑杆安装点静态强度，球头安装点内板最大应力125.3Mpa&gt;DC56D+Zf的屈服极限124.7Mpa.计划先优化内板安装点周边焊点结构。</p><p>PS: 20211220与PSS沟通，电动撑杆（单双撑杆方案还未定型）布置方案有可能还会变动。</p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "C",
+        "issue_stage": "1",
+        "progress_end": "2021-12-31",
+        "actual_finish": "2021-12-21",
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2783,
+                "name": "王雷",
+                "userid": "0107062",
+                "avatar_url": "http://account.geely.com/emp/0\\NTE1MA==\\NTU1NDUzNTQ1MjU2\\NTU1NDUzNTQ1MjU2.jpeg",
+                "depmt_id": "7"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 13,
+                "name": "PSS220"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 7,
+        "departmentname": "工程中心数字仿真技术开发部",
+        "project_phase": "PA",
+        "issue_name": "HEV车型热害分析-横向稳定杆衬套",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p><span style=\"color: red;\"><img src=\"http://10.190.49.113:8081/upload/0064d8f1be83137d0fe7a7d3b38c72ab.png\"></span></p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "A",
+        "issue_stage": "0",
+        "progress_end": "2021-12-29",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2801,
+                "name": "徐凯",
+                "userid": "0162302",
+                "avatar_url": "http://account.geely.com/emp/0\\NTI1Ng==\\NTU1MjU2NTc1NDU2\\NTU1MjU2NTc1NDU2.jpeg",
+                "depmt_id": "7"
+            },
+            {
+                "id": 3311,
+                "name": "刘洪义 (LIUHONGYI)",
+                "userid": "0041717",
+                "avatar_url": "http://account.geely.com/emp/0\\NTE1Nw==\\NTA1NTUzNTU1Mw==\\NTA1NTUzNTU1Mw==.jpeg",
+                "depmt_id": null
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 4,
+                "name": "PSS080"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 12,
+                "name": "老化"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 7,
+        "departmentname": "工程中心数字仿真技术开发部",
+        "project_phase": "PA",
+        "issue_name": "HEV车型热害分析-电池包",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>针对当前的仿真结果DX11单点电池表面温度数据低于之前KX11 HEV的值；假定DX11整个生命周期的阶段数据与KX11 HEV完全相同)，评估电池密封胶最高耐温无风险。</p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-29",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2801,
+                "name": "徐凯",
+                "userid": "0162302",
+                "avatar_url": "http://account.geely.com/emp/0\\NTI1Ng==\\NTU1MjU2NTc1NDU2\\NTU1MjU2NTc1NDU2.jpeg",
+                "depmt_id": "7"
+            },
+            {
+                "id": 3311,
+                "name": "刘洪义 (LIUHONGYI)",
+                "userid": "0041717",
+                "avatar_url": "http://account.geely.com/emp/0\\NTE1Nw==\\NTA1NTUzNTU1Mw==\\NTA1NTUzNTU1Mw==.jpeg",
+                "depmt_id": null
+            }
+        ],
+        "tag_issue": [],
+        "attribute_issue": [
+            {
+                "id": 20,
+                "name": "热管理"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 12,
+        "departmentname": "工程中心动态性能开发部",
+        "project_phase": "PA",
+        "issue_name": "前卡钳属性要求与PSS握手",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>泛博前卡钳状态属性已完成评价，反馈采购属性排序意见为：万都-ZF-CBI，卡钳定点后开展踏板感优化与冬季试验可行性评估</p>",
+        "issue_cause": "",
+        "issue_status": "R",
+        "issue_severity": "S",
+        "issue_stage": "0",
+        "progress_end": "2021-12-24",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2556,
+                "name": "王立东",
+                "userid": "0235307",
+                "avatar_url": "http://account.geely.com/emp/0\\NTA1Nw==\\NTY1NzUxNTc1NDUz\\NTY1NzUxNTc1NDUz.jpeg",
+                "depmt_id": "12"
+            },
+            {
+                "id": 2564,
+                "name": "薛盛兴",
+                "userid": "0160327",
+                "avatar_url": "http://account.geely.com/emp/0\\NTM=\\NTU1MjU0NTc1NjUz\\NTU1MjU0NTc1NjUz.jpeg",
+                "depmt_id": "12"
+            }
+        ],
+        "tag_issue": [],
+        "attribute_issue": [
+            {
+                "id": 24,
+                "name": "制动性能"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 12,
+        "departmentname": "工程中心动态性能开发部",
+        "project_phase": "PA",
+        "issue_name": "基于CMA1.5平台车型 PT3衬套验证",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>威巴克后PT3衬套第二轮样件已到达盐城试验场，w51完成VD与NVH主客观评测</p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-24",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2564,
+                "name": "薛盛兴",
+                "userid": "0160327",
+                "avatar_url": "http://account.geely.com/emp/0\\NTM=\\NTU1MjU0NTc1NjUz\\NTU1MjU0NTc1NjUz.jpeg",
+                "depmt_id": "12"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 4,
+                "name": "PSS080"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 25,
+                "name": "NVH"
+            },
+            {
+                "id": 30,
+                "name": "耐久"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 7,
+        "departmentname": "工程中心数字仿真技术开发部",
+        "project_phase": "PA",
+        "issue_name": "aero仿真分析-气帘封堵优化",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p><img src=\"http://10.190.49.113:8081/upload/5c90c9a7d1b150903a2883c740b10df6.png\"></p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-24",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2744,
+                "name": "汪硕",
+                "userid": "0156864",
+                "avatar_url": "http://account.geely.com/emp/0\\NTQ=\\NTU1MTUyNUM1MjUw\\NTU1MTUyNUM1MjUw.jpeg",
+                "depmt_id": "7"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 16,
+                "name": "PSS260"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 16,
+                "name": "动力性&经济性"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 33,
+        "departmentname": "运动能量中心能量控制部",
+        "project_phase": "PA",
+        "issue_name": "PHEV经济性仿真",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>目前续航里程178km,不满足项目输入。</p><p>请通过重量、风阻、滚阻、策略等方案优化</p>",
+        "issue_cause": "",
+        "issue_status": "R",
+        "issue_severity": "S",
+        "issue_stage": "0",
+        "progress_end": "2022-01-07",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 3317,
+                "name": "于镇嘉",
+                "userid": "0305560",
+                "avatar_url": "http://account.geely.com/emp/0\\NTY1MA==\\NTc1NDUxNTE1MjU0\\NTc1NDUxNTE1MjU0.jpeg",
+                "depmt_id": "33"
+            }
+        ],
+        "tag_issue": [],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            },
+            {
+                "id": 28,
+                "name": "空气动力学"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 33,
+        "departmentname": "运动能量中心能量控制部",
+        "project_phase": "PA",
+        "issue_name": "PHEV动力性仿真",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>1、目前仿真值5.2s, 不满足项目输入要求。</p><p>2、当前公司已规划P2电机功率升级至120KW方案，DX11 PHEV项目可赶上开发周期，采用后半载可达4.92 S，请确认电机规划周期能否满足项目开发周期要求。</p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "A",
+        "issue_stage": "0",
+        "progress_end": "2021-12-31",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 3314,
+                "name": "李大宇(大宇)",
+                "userid": "0053715",
+                "avatar_url": "http://account.geely.com/emp/0\\NTU1RA==\\NTE1NzUzNTU1MQ==\\NTE1NzUzNTU1MQ==.jpeg",
+                "depmt_id": "33"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 29,
+                "name": "PSS300"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            },
+            {
+                "id": 28,
+                "name": "空气动力学"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 8,
+        "departmentname": "工程中心属性集成部",
+        "project_phase": "PA",
+        "issue_name": "引擎盖抗凹分析",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>P1/4/7/12刚度不满足目标值要求；P6/18/19点存在屈曲现象。</p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "B",
+        "issue_stage": "0",
+        "progress_end": "2021-12-24",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2156,
+                "name": "俞有龙",
+                "userid": "0144828",
+                "avatar_url": "http://account.geely.com/emp/0\\NTI1NA==\\NTU1MDUwNUM1NjVD\\NTU1MDUwNUM1NjVD.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 15,
+                "name": "PSS240"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 29,
+                "name": "强度"
+            },
+            {
+                "id": 31,
+                "name": "主动安全&被动安全"
+            },
+            {
+                "id": 15,
+                "name": "轻量化"
+            },
+            {
+                "id": 26,
+                "name": "坚固性"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 9,
+        "departmentname": "工程中心NVH开发部",
+        "project_phase": "PA",
+        "issue_name": "DX11 UPV1白车身扭转模态",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p>DX11 UPV1白车身模态分析结果39.3Hz，不满足目标40Hz要求；相较于preUPV1，车身扭转模态下降2.4Hz，车身弯曲模态下降0.5Hz。</p>",
+        "issue_cause": "",
+        "issue_status": "R",
+        "issue_severity": "A",
+        "issue_stage": "0",
+        "progress_end": "2022-01-14",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2080,
+                "name": "李德水",
+                "userid": "0120757",
+                "avatar_url": "http://account.geely.com/emp/0\\NTE1Nw==\\NTU1NjU0NTM1MTUz\\NTU1NjU0NTM1MTUz.jpeg",
+                "depmt_id": "9"
+            },
+            {
+                "id": 2202,
+                "name": "肖运材",
+                "userid": "0168004",
+                "avatar_url": "http://account.geely.com/emp/0\\NTA=\\NTU1MjVDNTQ1NDUw\\NTU1MjVDNTQ1NDUw.jpeg",
+                "depmt_id": "9"
+            }
+        ],
+        "tag_issue": [
+            {
+                "id": 17,
+                "name": "PSS270"
+            }
+        ],
+        "attribute_issue": [
+            {
+                "id": 15,
+                "name": "轻量化"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "task_id": null,
+        "project_id": 3,
+        "projectname": "DX11",
+        "department_id": 10,
+        "departmentname": "工程中心材料技术开发部",
+        "project_phase": "PA",
+        "issue_name": "PVD工艺开发，需摸底耐光/耐划伤等性能",
+        "progress_status": "open",
+        "issue_comefrom": "研发",
+        "issue_description": "<p><img src=\"http://10.190.49.113:8081/upload/ac4a6f1686bff6e0ed05d8b4233aa824.png\"></p>",
+        "issue_cause": "",
+        "issue_status": "Y",
+        "issue_severity": "A",
+        "issue_stage": "0",
+        "progress_end": "2022-01-07",
+        "actual_finish": null,
+        "issue_remark": "",
+        "responese_issue": [
+            {
+                "id": 2397,
+                "name": "李萌",
+                "userid": "0029543",
+                "avatar_url": "http://account.geely.com/emp/1\\NTc1RA==\\NTY1RDUxNTA1Nw==\\NTY1RDUxNTA1Nw==.jpeg",
+                "depmt_id": "10"
+            }
+        ],
+        "tag_issue": [],
+        "attribute_issue": [
+            {
+                "id": 12,
+                "name": "老化"
+            }
+        ]
+    }
+]

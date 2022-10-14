@@ -1,0 +1,442 @@
+{
+    "routers": [
+        {
+            "path": "/",
+            "name": "index",
+            "component": "layouts\/Layout",
+            "redirect": "\/home",
+            "meta": {
+                "menu": true
+            },
+            "children": [
+                {
+                    "path": "home",
+                    "name": "home",
+                    "component": "views\/home\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "clinic-medical",
+                        "title": "首页",
+                        "tagfix": true
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "/project",
+            "name": "project",
+            "component": "layouts\/Layout",
+            "redirect": "",
+            "meta": {
+                "menu": true,
+                "icon": "calendar-alt",
+                "title": "项目管理"
+            },
+            "children": [
+                {
+                    "path": "index",
+                    "name": "index",
+                    "component": "views\/project\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "calendar-alt",
+                        "title": "项目总览"
+                    },
+                    "children": []
+                },
+                {
+                    "path": "list",
+                    "name": "list",
+                    "component": "views\/project\/List\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "calendar-alt",
+                        "title": "项目列表"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "/attribute",
+            "name": "attribute",
+            "component": "layouts\/Layout",
+            "redirect": "",
+            "meta": {
+                "menu": true,
+                "icon": "calendar-alt",
+                "title": "属性管理"
+            },
+            "children": [
+                {
+                    "path": "index",
+                    "name": "index",
+                    "component": "views\/attribute\/UPL\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "calendar-alt",
+                        "title": "属性管理UPL"
+                    },
+                    "children": []
+                },
+                {
+                    "path": "list",
+                    "name": "list",
+                    "component": "views\/attribute\/AL\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "calendar-alt",
+                        "title": "属性管理AL"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "/task",
+            "name": "task",
+            "component": "layouts\/Layout",
+            "redirect": "",
+            "meta": {
+                "menu": true,
+                "icon": "calendar-alt",
+                "title": "任务管理"
+            },
+            "children": [
+                {
+                    "path": "statistics",
+                    "name": "statistics",
+                    "component": "views\/task\/Statistics\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "calendar-alt",
+                        "title": "任务总览"
+                    },
+                    "children": []
+                },
+                {
+                    "path": "list",
+                    "name": "list",
+                    "component": "views\/task\/List\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "calendar-alt",
+                        "title": "我的任务"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "/question",
+            "name": "question",
+            "component": "layouts\/Layout",
+            "redirect": "",
+            "meta": {
+                "menu": true,
+                "icon": "calendar-alt",
+                "title": "问题管理"
+            },
+            "children": [
+                {
+                    "path": "statistics",
+                    "name": "statistics",
+                    "component": "views\/question\/Statistics\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "calendar-alt",
+                        "title": "问题总览"
+                    },
+                    "children": []
+                },
+                {
+                    "path": "list",
+                    "name": "list",
+                    "component": "views\/question\/List\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "calendar-alt",
+                        "title": "我的问题"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "/baseInfo",
+            "name": "baseInfo",
+            "component": "layouts\/Layout",
+            "redirect": "",
+            "meta": {
+                "menu": true,
+                "icon": "vial",
+                "title": "基础信息"
+            },
+            "children": [
+                {
+                    "path": "user",
+                    "name": "user",
+                    "component": "views\/user\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "users",
+                        "title": "用户管理"
+                    },
+                    "children": []
+                },
+                {
+                    "path": "department",
+                    "name": "department",
+                    "component": "views\/department2\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "house-user",
+                        "title": "部门管理"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "path": "/app",
+            "name": "app",
+            "component": "layouts\/Layout",
+            "redirect": "\/app",
+            "meta": {
+                "menu": true,
+                "icon": "atlas",
+                "title": "系统维护"
+            },
+            "children": [
+                {
+                    "path": "dict",
+                    "name": "dict",
+                    "component": "views\/app\/dict\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "user-secret",
+                        "title": "字典维护"
+                    },
+                    "children": []
+                },
+                {
+                    "path": "vueRouters",
+                    "name": "vueRouters",
+                    "component": "views\/app\/vueRouters\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "map-signs",
+                        "title": "路由设置"
+                    },
+                    "children": []
+                },
+                {
+                    "path": "role",
+                    "name": "role",
+                    "component": "views\/app\/role\/index",
+                    "meta": {
+                        "menu": true,
+                        "icon": "user-secret",
+                        "title": "角色管理"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "routers_api_mock_level1": [
+        {
+            "id": 1,
+            "router_id": "router_10000",
+            "path": "/",
+            "name": "index",
+            "component": "layouts\/Layout",
+            "redirect": "\/home",
+            "menu": 1,
+            "menu_router_id": "",
+            "menu_router_name": "",
+            "tagfix": 0,
+            "icon": "clinic-medical",
+            "title": "首页",
+            "lv": 1,
+            "superior_id": "0",
+            "record_state": 1,
+            "the_order": 1,
+            "keep_alive": 0
+        },
+        {
+            "id": 3,
+            "router_id": "router_10002",
+            "path": "baseInfo",
+            "name": "baseInfo",
+            "component": "layouts\/Layout",
+            "redirect": "",
+            "menu": 1,
+            "menu_router_id": "",
+            "menu_router_name": "",
+            "tagfix": 0,
+            "icon": "vial",
+            "title": "基础信息",
+            "lv": 1,
+            "superior_id": "0",
+            "record_state": 1,
+            "the_order": 99,
+            "keep_alive": 0
+        },
+        {
+            "id": 6,
+            "router_id": "router_10005",
+            "path": "project",
+            "name": "project",
+            "component": "layouts\/Layout",
+            "redirect": "",
+            "menu": 1,
+            "menu_router_id": "",
+            "menu_router_name": "",
+            "tagfix": 0,
+            "icon": "project-diagram",
+            "title": "项目管理",
+            "lv": 1,
+            "superior_id": "0",
+            "record_state": 1,
+            "the_order": 2,
+            "keep_alive": 0
+        },
+        {
+            "id": 9,
+            "router_id": "router_10008",
+            "path": "tasks",
+            "name": "tasks",
+            "component": "layouts\/Layout",
+            "redirect": "",
+            "menu": 1,
+            "menu_router_id": "",
+            "menu_router_name": "",
+            "tagfix": 0,
+            "icon": "tasks",
+            "title": "任务计划",
+            "lv": 1,
+            "superior_id": "0",
+            "record_state": 1,
+            "the_order": 3,
+            "keep_alive": 0
+        }
+    ],
+    "routers_api_mock_level2": [
+        {
+            "id": 2,
+            "router_id": "router_10001",
+            "path": "home",
+            "name": "home",
+            "component": "views\/home\/index",
+            "redirect": "",
+            "menu": 1,
+            "menu_router_id": "",
+            "menu_router_name": "",
+            "tagfix": 0,
+            "icon": "clinic-medical",
+            "title": "首页",
+            "lv": 2,
+            "superior_id": "router_10000",
+            "record_state": 1,
+            "the_order": 1,
+            "keep_alive": 0
+        },
+        {
+            "id": 4,
+            "router_id": "router_10003",
+            "path": "user",
+            "name": "user",
+            "component": "views\/user\/index",
+            "redirect": "",
+            "menu": 1,
+            "menu_router_id": "",
+            "menu_router_name": "",
+            "tagfix": 0,
+            "icon": "users",
+            "title": "用户管理",
+            "lv": 2,
+            "superior_id": "router_10002",
+            "record_state": 1,
+            "the_order": 1,
+            "keep_alive": 0
+        },
+        {
+            "id": 5,
+            "router_id": "router_10004",
+            "path": "department",
+            "name": "department",
+            "component": "views\/department\/index",
+            "redirect": "",
+            "menu": 1,
+            "menu_router_id": "",
+            "menu_router_name": "",
+            "tagfix": 0,
+            "icon": "house-user",
+            "title": "部门管理",
+            "lv": 2,
+            "superior_id": "router_10002",
+            "record_state": 1,
+            "the_order": 1,
+            "keep_alive": 0
+        },
+        {
+            "id": 7,
+            "router_id": "router_10006",
+            "path": "total",
+            "name": "total",
+            "component": "views\/department\/index",
+            "redirect": "",
+            "menu": 1,
+            "menu_router_id": "",
+            "menu_router_name": "",
+            "tagfix": 0,
+            "icon": "calendar-alt",
+            "title": "项目总览",
+            "lv": 2,
+            "superior_id": "router_10005",
+            "record_state": 1,
+            "the_order": 1,
+            "keep_alive": 0
+        },
+        {
+            "id": 8,
+            "router_id": "router_10007",
+            "path": "list",
+            "name": "list",
+            "component": "views\/department\/index",
+            "redirect": "",
+            "menu": 1,
+            "menu_router_id": "",
+            "menu_router_name": "",
+            "tagfix": 0,
+            "icon": "tasks",
+            "title": "项目列表",
+            "lv": 2,
+            "superior_id": "router_10005",
+            "record_state": 1,
+            "the_order": 1,
+            "keep_alive": 0
+        },
+        {
+            "id": 10,
+            "router_id": "router_10009",
+            "path": "index",
+            "name": "index",
+            "component": "views\/department\/index",
+            "redirect": "",
+            "menu": 1,
+            "menu_router_id": "",
+            "menu_router_name": "",
+            "tagfix": 0,
+            "icon": "tasks",
+            "title": "任务计划",
+            "lv": 2,
+            "superior_id": "router_10008",
+            "record_state": 1,
+            "the_order": 1,
+            "keep_alive": 0
+        }
+    ]
+}

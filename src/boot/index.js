@@ -1,11 +1,3 @@
-/*
- * @Description: 
- * @version: 
- * @Author: supan
- * @Date: 2021-02-25 15:54:55
- * @LastEditors: supan
- * @LastEditTime: 2021-02-25 16:40:15
- */
 // Main
 import BootAxios from "@/boot/main/axios"; //axios
 import BootAuth from "@/boot/main/auth"; //登录
@@ -18,10 +10,17 @@ import BootBus from "@/boot/plugins/bus"; //
 import BootIcon from "@/boot/plugins/icon";
 import BootMoment from "@/boot/plugins/moment"; //new date()
 import BootClipboard from "@/boot/plugins/clipboard"; //功能不明
-
+import BootContextMenu from "@/boot/plugins/contextmenu";
+import BootEcharts from "@/boot/plugins/echarts";
+import BootVCalendar from "@/boot/plugins/vcalendar";
+import BootVUpload from "@/boot/plugins/vupload";
+import BootDragResize from "@/boot/plugins/dragResize";
+import BootFullScreen from "@/boot/plugins/fullscreen";
+import BootVue2Org from "@/boot/plugins/vue2orgtree";
+import BootVueQuillEditor from "@/boot/plugins/quilleditor";
 //Out modules
 import BootModules from "@/boot/modules";
-
+import "./directive"
 // 注册启动器
 const bootItems = [
     BootAxios, 
@@ -33,6 +32,14 @@ const bootItems = [
     BootIcon,
     BootMoment,
     BootClipboard,
+    BootContextMenu,
+    BootEcharts,
+    BootVCalendar,
+    BootVUpload,
+    BootDragResize,
+    BootFullScreen,
+    BootVue2Org,
+    BootVueQuillEditor,
     BootModules
 ];
 

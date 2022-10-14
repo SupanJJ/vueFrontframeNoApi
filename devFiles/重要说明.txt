@@ -1,0 +1,13 @@
+1.修改包源码
+2022.3.29 需要修改node_modules/quill-image-super-solution-module包源码 86行  =='Files'改为'string'，解决复制ppt等变成图片的问题 
+
+
+2.关于调用阿里iconfont            https://www.iconfont.cn/
+方法一：iconfont我的项目 整体下载，覆盖 /styles/iconfont 里面的文件
+方法二：直接下载svg图片到/src/assets/icon_font目录中(推荐)
+使用方法  
+<icon-font icon-class="xxx" class-name="yyy" style="font-size:16px;color:red"/>
+其中icon-class对应图标svg文件的名称；className对应图标的css样式属性，设置相关属性可以改变svg图标的样式。
+
+3.jq-icon
+https://fontawesome.com/v5/search  选择免费

@@ -1,0 +1,148 @@
+{
+    "department":  [
+            {
+                "department": "数字仿真技术开发部1",
+                "departmentNo": "001",
+                "tenantOrgId": "001",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "111111111111",
+                "pym":"szfzjskfb1",
+                "wbm":"",
+                "id": "1"
+            },
+            {
+                "department": "数字仿真技术开发部2",
+                "departmentNo": "002",
+                "tenantOrgId": "002",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "222222222222",
+                "pym":"szfzjskfb2",
+                "wbm":"",
+                "id": "2"
+            },
+            {
+                "department": "数字仿真技术开发部3",
+                "departmentNo": "003",
+                "tenantOrgId": "003",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "111111333333",
+                "pym":"szfzjskfb3",
+                "wbm":"",
+                "id": "3"
+            },
+            {
+                "department": "数字仿真技术开发部4",
+                "departmentNo": "004",
+                "tenantOrgId": "004",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "",
+                "pym":"cs",
+                "wbm":"",
+                "id": "4"
+            },
+            {
+                "department": "数字仿真技术开发部5",
+                "departmentNo": "005",
+                "tenantOrgId": "005",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "454545555",
+                "pym":"cs3",
+                "wbm":"",
+                "id": "5"
+            },
+            {
+                "department": "数字仿真技术开发部6",
+                "departmentNo": "006",
+                "tenantOrgId": "006",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "77777",
+                "pym":"hh",
+                "wbm":"",
+                "id": "6"
+            },
+            {
+                "department": "数字仿真技术开发部7",
+                "departmentNo": "007",
+                "tenantOrgId": "007",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "111111111111",
+                "pym":"dd",
+                "wbm":"",
+                "id": "7"
+            },
+            {
+                "department": "数字仿真技术开发部8",
+                "departmentNo": "008",
+                "tenantOrgId": "008",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "xxxxxxx",
+                "pym":"fs",
+                "wbm":"",
+                "id": "8"
+            },
+            {
+                "department": "数字仿真技术开发部9",
+                "departmentNo": "009",
+                "tenantOrgId": "009",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "999999",
+                "pym":"aaa",
+                "wbm":"",
+                "id": "9"
+            },
+            {
+                "department": "数字仿真技术开发部10",
+                "departmentNo": "010",
+                "tenantOrgId": "010",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "哈哈哈哈哈",
+                "pym":"bbs",
+                "wbm":"",
+                "id": "10"
+            },
+            {
+                "department": "数字仿真技术开发部11",
+                "departmentNo": "011",
+                "tenantOrgId": "011",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "撒啊啊啊啊啊啊啊啊啊啊啊",
+                "pym":"cds",
+                "wbm":"",
+                "id": "11"
+            },
+            {
+                "department": "数字仿真技术开发部12",
+                "departmentNo": "012",
+                "tenantOrgId": "012",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "大师傅士大夫士大夫",
+                "pym":"sss",
+                "wbm":"abc",
+                "id": "12"
+            },
+            {
+                "department": "数字仿真技术开发部13",
+                "departmentNo": "013",
+                "tenantOrgId": "013",
+                "parentId":"111",
+                "orgOrder":0,
+                "remarks": "水水水水水水水水水水水1",
+                "pym":"sdffds",
+                "wbm":"b",
+                "id": "13"
+            }
+        ]
+    
+}

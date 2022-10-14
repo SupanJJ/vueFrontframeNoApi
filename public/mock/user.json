@@ -1,81 +1,52 @@
 {
-    "user": {
-        "Depts": [
-            {
-                "Org_Code": "1001",
-                "Org_Name": "测试机构",
-                "DeptID": "01",
-                "DeptName": "五官科"
-            },
-            {
-                "Org_Code": "1001",
-                "Org_Name": "测试机构",
-                "DeptID": "02",
-                "DeptName": "耳鼻咽喉"
-            },
-            {
-                "Org_Code": "1001",
-                "Org_Name": "测试机构",
-                "DeptID": "04",
-                "DeptName": "内分泌"
-            },
-            {
-                "Org_Code": "1001",
-                "Org_Name": "测试机构",
-                "DeptID": "03",
-                "DeptName": "外科"
-            },
-            {
-                "Org_Code": "1001",
-                "Org_Name": "测试机构",
-                "DeptID": "0002",
-                "DeptName": "内科"
-            },
-            {
-                "Org_Code": "1001",
-                "Org_Name": "测试机构",
-                "DeptID": "5001",
-                "DeptName": "内科A"
-            },
-            {
-                "Org_Code": "1001",
-                "Org_Name": "测试机构",
-                "DeptID": "5002",
-                "DeptName": "内科B"
-            },
-            {
-                "Org_Code": "1001",
-                "Org_Name": "测试机构",
-                "DeptID": "0001",
-                "DeptName": "管理层"
-            }
-        ],
-        "ID": 6,
-        "SysUniqueID": "00377b022e3a4a3a9fbea47795b29031",
-        "IDCard": "330289199308060974",
-        "Sex": "男",
-        "Birthday": "1993-08-06 00:00:00.000",
-        "Phone": "13087666222",
-        "PractisingCertificate": "123",
-        "QualificationCertificate": "123",
-        "Org_Code": "1001",
-        "UserID": "6001",
-        "UserLoginID": "6001",
-        "UserName": "测试人员",
-        "RecordState": 1,
-        "PYM": "HXG",
-        "WBM": "LND",
-        "Create_By": "admin",
-        "Create_Time": "2019-07-25 14:34:18.717",
-        "Update_By": "admin",
-        "Update_Time": "2019-08-06 12:39:51.423",
-        "TitleID": null,
-        "TitleName": null,
-        "DutyID": null,
-        "DutyName": null,
-        "PostID": null,
-        "PostName": null,
-        "PersonalProfile": null,
-        "Picture": null
-    }
+    "users": [
+        {
+            "id": 1,
+            "userid": "0027776",
+            "username": "YEBIN.WU",
+            "chinese": "吴叶彬",
+            "level": "P3-7",
+            "department_id": "2",
+            "module_id": "11",
+            "tenantOrgIds": "31800",
+            "tenantOrgNames": "工程中心NVH开发部",
+            "avatar": "http://account.geely.com/emp/0\\NTQ=\\NTY1MzUzNTM1Mg==\\NTY1MzUzNTM1Mg==.jpeg",
+            "jobName": "NVH技术验证主任工程师",
+            "pym": "wyb",
+            "wbm": "wyb",
+            "phone": "15669267118"
+        },
+        {
+            "id": 2,
+            "userid": "0029455",
+            "username": "zhoudy",
+            "chinese": "周大永",
+            "level": "P4-9",
+            "department_id": "1",
+            "module_id": "1",
+            "tenantOrgIds": "14594",
+            "tenantOrgNames": "工程中心",
+            "avatar": "http://account.geely.com/emp/0\\NTU1MQ==\\NTY1RDUwNTE1MQ==\\NTY1RDUwNTE1MQ==.jpeg",
+            "jobName": "工程中心副主任",
+            "pym": "zdy",
+            "wbm": "zdy",
+            "phone": "18668808811"
+        },
+        {
+            "id": 3,
+            "userid": "0072916",
+            "username": "shenhui2",
+            "chinese": "沈辉",
+            "level": "P3-6",
+            "department_id": "1",
+            "module_id": "45",
+            "tenantOrgIds": "31801",
+            "tenantOrgNames": "工程中心数字仿真技术开发部",
+            "avatar": "http://account.geely.com/emp/0\\NTY1NA==\\NTM1NjVENTU1Mg==\\NTM1NjVENTU1Mg==.jpeg",
+            "jobName": "数字仿真技术主管工程师",
+            "pym": "sh",
+            "wbm": "sh",
+            "phone": "15757483731"
+        }
+    ]
 }
